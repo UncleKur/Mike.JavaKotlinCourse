@@ -2,6 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+src/syntax/playground_package
 
 ### Eclipse ###
 .apt_generated
