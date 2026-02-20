@@ -1,4 +1,4 @@
-package syntax.lesson7_final;
+package mod1_syntax.syntax.lesson7_final;
 
 public class Final {
 

@@ -1,6 +1,4 @@
-package syntax.lesson5_variables;
-
-import java.util.Arrays;
+package mod1_syntax.syntax.lesson5_variables;
 
 public class Variables {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package syntax.lesson14_scanner;
+package mod1_syntax.syntax.lesson14_scanner;
 
 import java.util.Scanner;
 
@@ -14,6 +14,8 @@ public class ScannerDemo {
 
         System.out.println("My name is: " + name + "\n"
                 + "I'm" + age + "years old.");
+
+        scanner.close();
 
 
     }

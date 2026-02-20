@@ -1,4 +1,4 @@
-package syntax.lesson10_String;
+package mod1_syntax.syntax.lesson10_String;
 
 public class StringDemo {
 

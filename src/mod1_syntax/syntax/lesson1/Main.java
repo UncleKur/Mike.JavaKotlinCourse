@@ -1,11 +1,8 @@
-package syntax.lesson2_comments;
+package mod1_syntax.syntax.lesson1;
 
 public class Main {
     public static void main(String[] args) {
-        //Comments test
-    /*
-    multi comment
-    */
+
         System.out.println("Hello world!");
     }
 }

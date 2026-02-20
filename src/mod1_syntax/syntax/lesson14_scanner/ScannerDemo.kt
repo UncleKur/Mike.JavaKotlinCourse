@@ -1,4 +1,4 @@
-package syntax.lesson14_scanner
+package mod1_syntax.syntax.lesson14_scanner
 
 import java.util.Scanner
 
@@ -23,7 +23,7 @@ fun main() {
     val ageByKotlin = readln().toIntOrNull() ?: 0
     println("Age by kotlin method: $ageByKotlin")
 
-
+    scanner.close()
 
 
 
