@@ -1,4 +1,4 @@
-package mod2_collections.lesson24_arrays;
+package mod2_oop.lesson1_arrays;
 
 import java.util.Arrays;
 
@@ -8,6 +8,14 @@ public class ArrayDemo {
         //6 - сколько хранится элементов в массиве
         //в массиве нельзя изменить кол-во элементов
         int[] arraysNumber = new int[6];
+        String[] bac = {"a", "s", "d"};
+        //конструкция forEach
+        for (String ch : bac) {
+            System.out.printf("%s", ch);
+        }
+
+
+
 
         //ещё один вид инициализации
         int[] arraysNumber2 = {1, 2, 3, 4, 5, 6, 7, 2, 3, 45, 1};
